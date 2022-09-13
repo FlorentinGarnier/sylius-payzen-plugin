@@ -1,5 +1,5 @@
 {
-    "name": "kiboko/sylius-payzen-bundle",
+    "name": "florentin-garnier/sylius-payzen-plugin",
     "type": "symfony-bundle",
     "description": "Payzen gateway for Sylius projects.",
     "keywords": ["Sylius", "Payum", "Payzen", "Symfony"],
@@ -13,6 +13,10 @@
         {
             "name" : "Etienne Dauvergne",
             "homepage" : "http://ekyna.com"
+        },
+        {
+            "name" : "Florentin Garnier",
+            "email" : "florentin@garnier.tech"
         }
     ],
     "require": {
